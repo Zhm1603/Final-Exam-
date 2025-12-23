@@ -17,7 +17,7 @@ Features used: grid position, laps, fastest lap speed, status (finished/not fini
 
 Name: Formula 1 World Championship (1950–2024)
 
-Source (if public): https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020?select=results.csv
+Source: https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020?select=results.csv
 
 Description: Contains driver, race, and performance statistics including lap times, positions, and points.
 
